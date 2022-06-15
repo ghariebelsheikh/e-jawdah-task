@@ -1,0 +1,97 @@
+{
+  "mainNav": [
+    {
+      "id": "423751",
+      "name": "home",
+      "link": "/",
+      "iconName": "bi-house-fill"
+    },
+    {
+      "id": "2342",
+      "name": "inbox",
+      "link": "/",
+      "iconName": "bi-file-arrow-down-fill"
+    },
+    {
+      "id": "42423",
+      "name": "myorder",
+      "link": "/",
+      "iconName": "bi-file-earmark-text-fill"
+    },
+    {
+      "id": "7543",
+      "name": "addresslogs",
+      "link": "/",
+      "iconName": "bi-book-half"
+    },
+    {
+      "id": "4234",
+      "name": "authorizations",
+      "link": "/",
+      "iconName": "bi-people-fill"
+    }
+  ],
+  "servicesNav": [
+    {
+      "id": "3223",
+      "name": "bookCommercialRecord",
+      "link": "/BookCommercialRecord",
+      "iconName": "bi-pencil-square"
+    },
+    {
+      "id": "656",
+      "name": "renewCommercialLog",
+      "link": "/",
+      "iconName": "bi-person-badge-fill"
+    },
+    {
+      "id": "432657",
+      "name": "deleteCommercialLog",
+      "link": "/",
+      "iconName": "bi-trash-fill"
+    }
+  ],
+  "otherLinks": [
+    {
+      "id": "7532",
+      "name": "businessPlatform",
+      "link": "/",
+      "iconName": ""
+    },
+    {
+      "id": "12165",
+      "name": "electronicServices",
+      "link": "/",
+      "iconName": ""
+    },
+    {
+      "id": "323565",
+      "name": "contactUs",
+      "link": "/",
+      "iconName": ""
+    }
+  ],
+  "links": [
+    {
+      "id": "753323",
+      "name": "منصة الأعمال",
+      "link": "/"
+    },
+    {
+      "id": "232",
+      "name": "الخدمات الإلكترونية",
+      "link": "/"
+    },
+    {
+      "id": "23232",
+      "name": "تواصل معنا",
+      "link": "/"
+    }
+  ],
+  "tabs": [
+    { "id": "645353", "name": "all" },
+    { "id": "32455632", "name": "sublogs" },
+    { "id": "3123432", "name": "instituteslogs" },
+    { "id": "31231345432", "name": "favlogs" }
+  ]
+}
